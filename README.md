@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## 👋 Hi, I'm Soma
+## 👋 Hi, I'm  Soma
 
 - 🔭 Building **Scalable Backend Systems using Spring Boot**
 - 🌱 Learning **System Design, Kafka, Redis, Docker**
@@ -205,7 +205,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravavailable&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somaavailable&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
