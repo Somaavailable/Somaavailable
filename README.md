@@ -18,7 +18,8 @@
 - 🌱 Learning **System Design, Kafka, Redis, Docker**
 - 💡 Strong in **REST API Development & Database Design**
 - 👯 Open to collaborate on **Backend / Microservices Projects**
-- 📫 Email: **gk0215312@gmail.com**
+- 📫 Email: **somamanhar3
+- @gmail.com**
 - ⚡ Fun fact: **I turn coffee into clean backend code ☕**
 
 <br clear="right"/>
