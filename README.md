@@ -12,14 +12,13 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-## 👋 Hi, I'm Gaurav Kumar
+## 👋 Hi, I'm Soma
 
 - 🔭 Building **Scalable Backend Systems using Spring Boot**
 - 🌱 Learning **System Design, Kafka, Redis, Docker**
 - 💡 Strong in **REST API Development & Database Design**
 - 👯 Open to collaborate on **Backend / Microservices Projects**
-- 📫 Email: **somamanhar3
-- @gmail.com**
+- 📫 Email: **somamanhar3gmail.com**
 - ⚡ Fun fact: **I turn coffee into clean backend code ☕**
 
 <br clear="right"/>
