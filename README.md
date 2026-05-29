@@ -236,7 +236,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-330859223/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gk0215312@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gauravavailable-181717?style=for-the-badge&logo=github)](https://github.com/gauravavailable)
+[![GitHub](https://github.com/Somaavailable/Somaavailable.git)
 
 </div>
 
