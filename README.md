@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src=https://dribbble.com/shots/14523057-woman-with-laptop
+<img align="right" alt="Coding" width="380" src="https://dribbble.com/shots/14523057-woman-with-laptop"/>
 
 ## 👋 Hi, I'm  Soma
 
